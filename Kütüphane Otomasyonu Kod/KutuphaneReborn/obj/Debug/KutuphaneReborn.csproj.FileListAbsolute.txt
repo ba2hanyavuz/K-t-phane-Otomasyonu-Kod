@@ -1,0 +1,592 @@
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\bin\Debug\Guna.UI2.dll
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\batug\Source\Repos\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\KutuphaneReborn\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\Guna.UI2.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\batug\Downloads\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.ekitapgecmisi.resources
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.uyeAyarlari.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.ekitapgecmisi.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.uyeAyarlari.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitap.ekitapGecmis.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.kitapGozat.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.ekitapGozat.resources
+C:\Users\Batuhan\Desktop\1hazirankutup\aaa\Buodevmutusoldumk\KutuphaneReborn(Edited0105)\KutuphaneReborn(Edited0105)\KutuphaneReborn\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.ekitapGozat.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.kitapGozat.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitap.ekitapGecmis.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.ekitapgecmisi.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.uyeAyarlari.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\2HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.ekitapGozat.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.kitapGozat.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitap.ekitapGecmis.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.ekitapgecmisi.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.uyeAyarlari.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.ekitapGozat.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.kitapGozat.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitap.ekitapGecmis.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.ekitapgecmisi.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.uyeAyarlari.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\batug\Downloads\3HaziranKütüphane\3HaziranKütüphane\3HaziranKütüphane\2HaziranKütüphane\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.ekitapGozat.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.kitapGozat.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitap.ekitapGecmis.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.ekitapgecmisi.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.uyeAyarlari.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\Finalhaligibimsi\Finalhaligibimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.ekitapGozat.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.kitapGozat.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitap.ekitapGecmis.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.ekitapgecmisi.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.uyeAyarlari.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.sifremiUnuttum.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe.config
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\KutuphaneReborn.pdb
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\MaterialSkin.dll
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.Permissions.dll
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.Permissions.xml
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Adminarayuz.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Admingiris.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.ekitapGozat.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafir.kitapGozat.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitap.ekitapGecmis.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.ekitapSatınAl.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Beklenenkitap.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Emanetistek.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Islemgecmisi.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Ekitapanel.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Giris.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Kitappanel.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Misafirarayuz.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Dordunbiri.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Hafizaoyunu.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.ikibinkirksekiz.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.SayiTahmin.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.personelAyarlari.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelarayuz.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelgiris.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Personelpanel.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Tur.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yayinevi.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Yazarekle.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.sifremiUnuttum.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.ekitapgecmisi.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uye.uyeAyarlari.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegecmisi.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekitap.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyearayuz.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyegiris.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyekayit.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.Uyepanel.resources
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.exe
+C:\Users\Batuhan\Desktop\Kütüphane Final\Final Mi Halimsi\KutuphaneReborn\obj\Debug\KutuphaneReborn.pdb
